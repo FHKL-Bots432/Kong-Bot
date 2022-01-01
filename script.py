@@ -7,7 +7,7 @@ class Script(object):
     START_TEXT = """
 Hey {} 
 
-I am Telegram Most Powerful Subtitle Muxer Bot
+I am Telegram Most Powerful Galaxy Bot
 
 I can Mux Any Srt or Txt File in File or Video
 
