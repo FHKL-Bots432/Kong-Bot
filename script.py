@@ -13,7 +13,8 @@ I can Mux Any Srt or Txt File in File or Video
 
 Use Help Command to Know How to Use me
 
-Made With 💕 By @Tellybots_4u
+Made With ❤️‍🔥 POWERED BY : @Filmy_Hangama
+#TFH
 """
     HELP_TEXT = """
 Recommended
@@ -28,22 +29,23 @@ Softmux
 HardMux
 ➠ Send /hardmux to add Subtitle hardly in it 
 
-Made With 💕 By @Tellybots_4u
+Made With ❤️‍🔥 POWERED BY : @Filmy_Hangama
+#TFH
 """
     ABOUT_TEXT = """
- **🤖 Bot :** Sub-Muxer\n
- **👲 Developer :** [Tellybots_4u](https://telegram.me/tellybots_4u)\n
- **👥 Channel :** [Tellybots_4u](https://telegram.me/tellybots_4u)\n
+ **🤖 Bot :** Galaxy\n
+ **👲 Developer :** [FHKL_Team](https://telegram.me/FHKL_Team)\n
+ **👥 Channel :** [Filmy Hangama](https://telegram.me/Filmy_Hangama)\n
  **❄️ Credits :** Everyone in this journey\n
- **🍴 Source :** [Click here](https://t.me/tellybots_digital)\n
+ **🍴 Source :** [Click here](https://github.com/LionKetty)\n
  **📝 Language :** [Python3](https://python.org)\n
  **📚 Library :** [Pyrogram v1.2.0](https://pyrogram.org)\n
  **🌟 Server :** [Heroku](https://heroku.com)\n
 """
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🤖 Update Channel', url='https://telegram.me/tellybots_4u'),
-        InlineKeyboardButton('💬 Support Group', url='https://telegram.me/tellybots_support')
+        InlineKeyboardButton('🤖 Update Channel', url='https://telegram.me/Filmy_Hangama'),
+        InlineKeyboardButton('💬 Support Group', url='https://telegram.me/LegendsRequest')
         ],[
         InlineKeyboardButton('❔ Help', callback_data='help'),
         InlineKeyboardButton('⛔ Close', callback_data='close')
